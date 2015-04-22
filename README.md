@@ -1,6 +1,6 @@
-### Assignment2: Submit cacheMatrix.R function
+# Assignment2: Submit cacheMatrix.R function
 
-# This is the submission of R Programming assignment2. The function follows the following step:
+### This is the submission of R Programming assignment2. The function follows the following step:
 
 a. `makeCacheMatrix`: This function creates a special "matrix" object
     that can cache its inverse.
